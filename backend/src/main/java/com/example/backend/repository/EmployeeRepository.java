@@ -1,6 +1,6 @@
-package repository;
+package com.example.backend.repository;
 
-import model.Employee;
+import com.example.backend.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
