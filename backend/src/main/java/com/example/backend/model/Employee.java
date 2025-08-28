@@ -31,6 +31,7 @@ public class Employee {
     public long getId() {
         return id;
     }
+
     public void setId(long id) {
         this.id = id;
     }
@@ -38,6 +39,7 @@ public class Employee {
     public String getFirstName() {
         return firstName;
     }
+
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
@@ -45,6 +47,7 @@ public class Employee {
     public String getLastName() {
         return lastName;
     }
+
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
@@ -52,6 +55,7 @@ public class Employee {
     public String getEmailId() {
         return emailId;
     }
+
     public void setEmailId(String emailId) {
         this.emailId = emailId;
     }
